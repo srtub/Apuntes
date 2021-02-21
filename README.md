@@ -7,11 +7,11 @@ Estos son mis apuntes de psicología escritos en LaTeX.
 
 ## Cursos
 Este es el material correspondiente a cada curso.   
-	- Primer curso:   
-		* Fundamentos biológicos de la conducta  
-		* Motivación, emoción y condicionamiento  
-	- Segundo curso:  
-		* Psicología de la memoria  
+- Primer curso:   
+    * Fundamentos biológicos de la conducta  
+    * Motivación, emoción y condicionamiento  
+- Segundo curso:  
+    * Psicología de la memoria  
 
 Para hacer una lista en latex usaríamos:  
 ```
